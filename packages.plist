@@ -14,6 +14,17 @@
 			},
 			{
 				titles = {
+					zh-Hans = "RealType-一字一图";
+				};
+				url = "https://github.com/realear/RT_OneGlyphOneImage";
+				path = "RTOneGlyphOneImage.glyphsPlugin";
+				descriptions = {
+					zh-Hans = "Glyphs3 Base插件，用于生成字形图片。";
+				};
+				screenshot = "https://ggithub.com/realear/RT_OneGlyphOneImage/raw/master/screenshot.png";
+			},
+			{
+				titles = {
 					zh-Hans = "RealType-字形调音台";
 				};
 				url = "https://github.com/realear/RT_Mixer";
