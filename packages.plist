@@ -14,6 +14,17 @@
 			},
 			{
 				titles = {
+					zh-Hans = "RealType-字形对比";
+				};
+				url = "https://github.com/realear/RT_GlyphCompare";
+				path = "RTGlyphCompare.glyphsPalette";
+				descriptions = {
+					zh-Hans = "Glyphs3 PalettePlugin，用于字形彩色对比";
+				};
+				screenshot = "https://github.com/realear/RT_GlyphCompare/raw/master/screenshot.png";
+			},
+			{
+				titles = {
 					zh-Hans = "RealType-一字一图";
 				};
 				url = "https://github.com/realear/RT_OneGlyphOneImage";
