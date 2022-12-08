@@ -14,9 +14,31 @@
 			},
 			{
 				titles = {
+					zh-Hans = "RealType-复制粘贴";
+				};
+				url = "https://github.com/real-type/RT_CopyAndPaste";
+				path = "RTCopyAndPaste.glyphsPlugin";
+				descriptions = {
+					zh-Hans = "Glyphs3 Base插件，主要用于支持多母版的形状的批量复制粘贴。";
+				};
+				screenshot = "https://github.com/real-type/RT_CopyAndPaste/raw/master/screenshot.png";
+			},
+			{
+				titles = {
+					zh-Hans = "RealType-修复兼容性";
+				};
+				url = "https://github.com/real-type/RT_FixCompatibility";
+				path = "RTFixCompatibility.glyphsPalette";
+				descriptions = {
+					zh-Hans = "Glyphs3 PalettePlugin，用于自动修复轮廓顺序和节点起始点引起的兼容性问题";
+				};
+				screenshot = "https://github.com/real-type/RT_FixCompatibility/raw/master/screenshot.png";
+			},
+			{
+				titles = {
 					zh-Hans = "RealType-背景参考字";
 				};
-				url = "https://github.com/realtype/RT_FontReference";
+				url = "https://github.com/real-type/RT_FontReference";
 				path = "RTFontReference.glyphsPalette";
 				descriptions = {
 					zh-Hans = "Glyphs3 PalettePlugin，用于选取系统安装的字体作为背景参考字";
