@@ -14,7 +14,7 @@
 			},
 			{
 				titles = {
-					zh-Hans = "RealType-复制粘贴";
+					zh-Hans = "RealType-形状复制";
 				};
 				url = "https://github.com/real-type/RT_CopyAndPaste";
 				path = "RTCopyAndPaste.glyphsPlugin";
