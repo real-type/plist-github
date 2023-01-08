@@ -14,6 +14,17 @@
 			},
 			{
 				titles = {
+					zh-Hans = "RealType-字始至终Plus";
+				};
+				url = "https://github.com/real-type/RT_QuickSpellingPlus";
+				path = "RTQuickSpellingPlus.glyphsPalette";
+				descriptions = {
+					zh-Hans = "Glyphs3 PalettePlugin，9169拼字插件";
+				};
+				screenshot = "https://github.com/real-type/RT_QuickSpellingPlus/raw/master/screenshot.png";
+			},
+			{
+				titles = {
 					zh-Hans = "RealType-形状复制";
 				};
 				url = "https://github.com/real-type/RT_CopyAndPaste";
