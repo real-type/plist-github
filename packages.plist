@@ -1,0 +1,623 @@
+{
+	packages = {
+		plugins = (
+			{
+				titles = {
+					en= "RealType-偷天换日";
+				};
+				url = "https://github.com/real-type/RT_ChangePath";
+				path = "RTChangePath.glyphsPalette";
+				descriptions = {
+					en= "Glyphs3 PalettePlugin，通过机器学习，批量替换一个Glyphs文件中的选择字符的相似路径或笔画";
+				};
+				screenshot = "https://github.com/real-type/RT_ChangePath/raw/master/screenshot.png";
+			},
+				{
+				titles = {
+					en= "RealType-字符排序";
+				};
+				url = "https://github.com/real-type/RT_Sorting";
+				path = "RTSorting.glyphsPalette";
+				descriptions = {
+					en= "Glyphs3 PalettePlugin，字符排序。";
+				};
+				screenshot = "https://github.com/real-type/RT_Sorting/raw/master/screenshot.png";
+			},
+			{
+				titles = {
+					en= "RealType-就由字取Plus";
+				};
+				url = "https://github.com/real-type/RT_RelationPlusPlus";
+				path = "RTRelationPlusPlus.glyphsPalette";
+				descriptions = {
+					en= "Glyphs3 PalettePlugin，就由字取Plus版本。";
+				};
+				screenshot = "https://github.com/real-type/RT_RelationPlusPlus/raw/master/screenshot.png";
+			},
+			{
+				titles = {
+					en= "RealType-Esc断笔【Free】";
+				};
+				url = "https://github.com/real-type/RT_EscEndPath";
+				path = "RTEscEndPath.glyphsPlugin";
+				descriptions = {
+					en= "Glyphs3 Base插件，用于在钢笔视图绘制路径时用Esc断笔，按Esc后停止当前路径的绘制，重新开启一个新的。";
+				};
+			},
+			{
+				titles = {
+					en= "RealType-文件提取【Free】";
+				};
+				url = "https://github.com/real-type/RT_FileExtraction";
+				path = "RTFileExtraction.glyphsPlugin";
+				descriptions = {
+					en= "Glyphs3 Base插件，将选择的字符提取到一个新文件。";
+				};
+				screenshot = "https://github.com/real-type/RT_FileExtraction/raw/master/screenshot.png";
+			},
+			{
+				titles = {
+					en= "RealType-点阵数据";
+				};
+				url = "https://github.com/real-type/RT_BitmapData";
+				path = "RTBitmapData.glyphsPlugin";
+				descriptions = {
+					en= "Glyphs3 Base插件，用于显示和生成纯点阵数据。";
+				};
+				screenshot = "https://github.com/real-type/RT_BitmapData/raw/master/screenshot.png";
+			},
+			{
+				titles = {
+					en= "RealType-数据导出";
+				};
+				url = "https://github.com/real-type/RT_ExportData";
+				path = "RTExportData.glyphsPlugin";
+				descriptions = {
+					en= "Glyphs3 Base插件，用于导出字符数据到csv表格中";
+				};
+				screenshot = "https://github.com/real-type/RT_ExportData/raw/master/screenshot.png";
+			},
+			{
+				titles = {
+					en= "RealType-随机打乱【Free】";
+				};
+				url = "https://github.com/real-type/RT_RandomDisruption";
+				path = "RTRandomDisruption.glyphsPlugin";
+				descriptions = {
+					en= "Glyphs3 Base插件，用于随机打乱当前显示的字符,可用于检查。";
+				};
+				screenshot = "https://github.com/real-type/RT_RandomDisruption/raw/master/screenshot.png";
+			},
+			{
+				titles = {
+					en= "RealType-颜色快选【Free】";
+				};
+				url = "https://github.com/real-type/RT_QuickColorSelection";
+				path = "RTQuickColorSelection.glyphsPalette";
+				descriptions = {
+					en= "Glyphs3 PalettePlugin，Glyphs3插件，用于快速选择对应颜色的字符";
+				};
+				screenshot = "https://github.com/real-type/RT_QuickColorSelection/raw/master/screenshot.png";
+			},
+			{
+				titles = {
+					en= "RealType-编码转换";
+				};
+				url = "https://github.com/real-type/RT_Code";
+				path = "RTCode.glyphsPalette";
+				descriptions = {
+					en= "Glyphs3 PalettePlugin，Glyphs3插件，用于字符、u码、国标码之间的相互转换";
+				};
+				screenshot = "https://github.com/real-type/RT_Code/raw/master/screenshot.png";
+			},
+			{
+				titles = {
+					en= "RealType-字摸";
+				};
+				url = "https://github.com/real-type/RT_Fun";
+				path = "RTFun.glyphsPlugin";
+				descriptions = {
+					en= "Glyphs3 Base插件，Glyphs摸鱼神器。";
+				};
+				screenshot = "https://github.com/real-type/RT_Fun/raw/master/screenshot.png";
+			},
+			{
+				titles = {
+					en= "RealType-数据搬运工";
+				};
+				url = "https://github.com/real-type/RT_DataHamal";
+				path = "RTDataHamal.glyphsPlugin";
+				descriptions = {
+					en= "Glyphs3 Base插件，用来从另一个文件搬运数据。";
+				};
+				screenshot = "https://github.com/real-type/RT_DataHamal/raw/master/screenshot.png";
+			},
+			{
+				titles = {
+					en= "RealType-范围偏移【Free】";
+				};
+				url = "https://gigithubtee.com/real-type/RT_RangeOffset";
+				path = "RTRangeOffset.glyphsPalette";
+				descriptions = {
+					en= "Glyphs3 PalettePlugin，用来批量移动一定范围内的节点.";
+				};
+				screenshot = "https://github.com/real-type/RT_RangeOffset/raw/master/screenshot.png";
+			},
+			{
+				titles = {
+					en= "RealType-打印";
+				};
+				url = "https://github.com/real-type/RT_Print";
+				path = "RTPrint.glyphsPlugin";
+				descriptions = {
+					en= "Glyphs3 Base插件，自定义打印。";
+				};
+				screenshot = "https://github.com/real-type/RT_Print/raw/master/screenshot.png";
+			},
+			{
+				titles = {
+					en= "RealType-字形预览【Free】";
+				};
+				url = "https://github.com/real-type/RT_GlyphsPreview";
+				path = "RTGlyphsPreview.glyphsReporter";
+				descriptions = {
+					en= "Glyphs3 Reporters插件，在字体界面预览字形。";
+				};
+				screenshot = "https://github.com/real-type/RT_GlyphsPreview/raw/master/screenshot.png";
+			},
+			{
+				titles = {
+					en= "RealType-文字画图【Free】";
+				};
+				url = "https://github.com/real-type/RT_ImagePixelColor";
+				path = "RTImagePixelColor.glyphsPlugin";
+				descriptions = {
+					en= "Glyphs3 Base插件，将选择的图片用设定的文字画出来。";
+				};
+				screenshot = "https://github.com/real-type/RT_ImagePixelColor/raw/master/screenshot.png";
+			},
+			{
+				titles = {
+					en= "RealType-天平参考线";
+				};
+				url = "https://github.com/real-type/RT_ScaleGuides";
+				path = "RTScaleGuides.glyphsPalette";
+				descriptions = {
+					en= "Glyphs3 PalettePlugin，根据设置的比例生成参考线";
+				};
+				screenshot = "https://github.com/real-type/RT_ScaleGuides/raw/master/screenshot.png";
+			},
+			{
+				titles = {
+					en= "RealType-字始至终Plus";
+				};
+				url = "https://github.com/real-type/RT_QuickSpellingPlus";
+				path = "RTQuickSpellingPlus.glyphsPalette";
+				descriptions = {
+					en= "Glyphs3 PalettePlugin，9169拼字插件";
+				};
+				screenshot = "https://github.com/real-type/RT_QuickSpellingPlus/raw/master/screenshot.png";
+			},
+			{
+				titles = {
+					en= "RealType-形状复制【Free】";
+				};
+				url = "https://github.com/real-type/RT_CopyAndPaste";
+				path = "RTCopyAndPaste.glyphsPlugin";
+				descriptions = {
+					en= "Glyphs3 Base插件，主要用于支持多母版的形状的批量复制粘贴。";
+				};
+				screenshot = "https://github.com/real-type/RT_CopyAndPaste/raw/master/screenshot.png";
+			},
+			{
+				titles = {
+					en= "RealType-修复兼容性";
+				};
+				url = "https://github.com/real-type/RT_FixCompatibility";
+				path = "RTFixCompatibility.glyphsPalette";
+				descriptions = {
+					en= "Glyphs3 PalettePlugin，用于自动修复轮廓顺序和节点起始点引起的兼容性问题";
+				};
+				screenshot = "https://github.com/real-type/RT_FixCompatibility/raw/master/screenshot.png";
+			},
+			{
+				titles = {
+					en= "RealType-背景参考字";
+				};
+				url = "https://github.com/real-type/RT_FontReference";
+				path = "RTFontReference.glyphsPalette";
+				descriptions = {
+					en= "Glyphs3 PalettePlugin，用于选取系统安装的字体作为背景参考字";
+				};
+				screenshot = "https://github.com/real-type/RT_FontReference/raw/master/screenshot.png";
+			},
+			{
+				titles = {
+					en= "RealType-字形对比";
+				};
+				url = "https://github.com/real-type/RT_GlyphCompare";
+				path = "RTGlyphCompare.glyphsPalette";
+				descriptions = {
+					en= "Glyphs3 PalettePlugin，用于字形彩色对比";
+				};
+				screenshot = "https://github.com/real-type/RT_GlyphCompare/raw/master/screenshot.png";
+			},
+			{
+				titles = {
+					en= "RealType-一字一图";
+				};
+				url = "https://github.com/real-type/RT_OneGlyphOneImage";
+				path = "RTOneGlyphOneImage.glyphsPlugin";
+				descriptions = {
+					en= "Glyphs3 Base插件，用于生成字形图片。";
+				};
+				screenshot = "https://ggithub.com/real-type/RT_OneGlyphOneImage/raw/master/screenshot.png";
+			},
+			{
+				titles = {
+					en= "RealType-字形调音台";
+				};
+				url = "https://github.com/real-type/RT_Mixer";
+				path = "RTMixer.glyphsPalette";
+				descriptions = {
+					en= "Glyphs3 PalettePlugin，用来设置线段的距离、横笔和竖笔的粗细。";
+				};
+				screenshot = "https://github.com/real-type/RT_Mixer/raw/master/screenshot.png";
+			},
+			{
+				titles = {
+					en= "RealType-汉字九宫格【Free】";
+				};
+				url = "https://github.com/real-type/RT_Cn9Gg";
+				path = "RTCn9Gg.glyphsPalette";
+				descriptions = {
+					en= "Glyphs3 PalettePlugin，显示汉字九宫格。";
+				};
+				screenshot = "https://github.com/real-type/RT_Cn9Gg/raw/master/screenshot.png";
+			},
+			{
+				titles = {
+					en= "RealType-可变字体预览";
+				};
+				url = "https://github.com/real-type/RT_VFPreview";
+				path = "RTVFPreview.glyphsPalette";
+				descriptions = {
+					en= "Glyphs3 PalettePlugin，可变字体预览";
+				};
+				screenshot = "https://github.com/real-type/RT_VFPreview/raw/master/screenshot.png";
+			},
+			{
+				titles = {
+					en= "RealType-就由字取";
+				};
+				url = "https://github.com/real-type/RT_RelationPlus";
+				path = "RTRelationPlus.glyphsPalette";
+				descriptions = {
+					en= "Glyphs3 PalettePlugin，这个插件可以方便你从相同部件的字形上获取可调用的路径。 数据适用27K+字。";
+				};
+				screenshot = "https://github.com/real-type/RT_RelationPlus/raw/master/screenshot.png";
+			},
+			{
+				titles = {
+					en= "RealType-字形涂鸦";
+				};
+				url = "https://github.com/real-type/RT_Graffiti";
+				path = "RTGraffiti.glyphsReporter";
+				descriptions = {
+					en= "Glyphs3 Reporters插件，用于字形的自定义涂鸦。";
+				};
+				screenshot = "https://github.com/real-type/RT_Graffiti/raw/master/screenshot.png";
+			},
+			{
+				titles = {
+					en= "RealType-插件库管理器";
+				};
+				url = "https://github.com/real-type/RT_PluginPlist";
+				path = "RTPluginPlist.glyphsPlugin";
+				descriptions = {
+					en= "Glyphs3插件，安装后在菜单栏【文件】-【RT插件库管理器】中找到，Glyphs3插件，用来管理和快速切换Glyphs3替换插件库的数据源。";
+				};
+				screenshot = "https://github.com/real-type/RT_PluginPlist/raw/master/screenshot.png";
+			},
+			{
+				titles = {
+					en= "RealType-汉字纠查";
+				};
+				url = "https://github.com/real-type/RT_ErrorCorrection";
+				path = "RTErrorCorrection.glyphsPlugin";
+				descriptions = {
+					en= "Glyphs3插件，安装后在菜单栏【编辑】-【RT汉字纠查】中找到，通过打印pdf样张，检查汉字字形、词组排版、多字重。";
+				};
+				screenshot = "https://github.com/real-type/RT_ErrorCorrection/raw/master/screenshot.png";
+			},
+			{
+				titles = {
+					en= "RealType-样本库";
+				};
+				url = "https://github.com/real-type/RT_SmapleText";
+				path = "RTSmapleText.glyphsPlugin";
+				descriptions = {
+					en= "Glyphs3插件，安装后在菜单栏【编辑】-【RT样本库】中找到，可以自定义自己的样本文案，支持多行数据，支持数据的导出导入。";
+				};
+				screenshot = "https://github.com/real-type/RT_SmapleText/raw/master/screenshot.png";
+			},
+			{
+				titles = {
+					en= "RealType-字立根生";
+				};
+				url = "https://github.com/real-type/RT_Relation";
+				path = "RTRelation.glyphsPalette";
+				descriptions = {
+					en= "Glyphs3插件，根据部件结构、位置，用来找关系，传路径。";
+				};
+				screenshot = "https://github.com/Rreal/RT_Relation/raw/master/screenshot.png";
+			},
+			{
+				titles = {
+					en= "RealType-第二预览";
+				};
+				url = "https://github.com/real/RT_TheSecondPreview";
+				path = "RTTheSecondPreview.glyphsPalette";
+				descriptions = {
+					en= "Glyphs3插件，开启第二个预览视图。";
+				};
+				screenshot = "https://github.com/real-type/RT_TheSecondPreview/raw/master/screenshot.png";
+			},
+			{
+				titles = {
+					en= "RealType-激活授权工具【Free】";
+				};
+				url = "https://github.com/real-type/RT_ActivityTool";
+				path = "RTActivityTool.glyphsPlugin";
+				descriptions = {
+					en= "RT插件激活授权工具，安装后在菜单【文件】-【RT授权工具】中打开";
+				};
+			},
+			{
+				titles = {
+					en= "RealType-批量粘贴【Free】";
+				};
+				url = "https://github.com/real-type/RT_SpecialPaste";
+				path = "RTSpecialPaste.glyphsPlugin";
+				descriptions = {
+					en= "Glyphs3插件。选中多个字符后，批量粘贴复制的路径和部件。安装后，在菜单栏【编辑】—【RT批量粘贴】找到并使用。";
+				};
+			},
+			{
+				titles = {
+					en= "RealType-汉语拼音【Free】";
+				};
+				url = "https://github.com/real-type/RT_ShowPinyin";
+				path = "RTShowPinyin.glyphsReporter";
+				descriptions = {
+					en= "Glyphs3 Reporter插件，显示汉字的汉语拼音。";
+				};
+				screenshot = "https://github.com/real-type/RT_ShowPinyin/raw/master/screenshot.png";
+			},
+			{
+				titles = {
+					en= "RealType-拼音字库";
+				};
+				url = "https://github.com/real-type/RT_AddPinyin";
+				path = "RTAddPinyin.glyphsPalette";
+				descriptions = {
+					en= "Glyphs3 PalettePlugin，用来制作拼音字库。 ";
+				};
+				screenshot = "https://github.com/real-type/RT_AddPinyin/raw/master/screenshot.png";
+			},
+			{
+				titles = {
+					en= "RealType-字始至终";
+				};
+				url = "https://github.com/real-type/RT_QuickSpelling";
+				path = "RTQuickSpelling.glyphsPalette";
+				descriptions = {
+					en= "Glyphs3 PalettePlugin，通过设计1000字以内的汉字并拆分部件，然后快速拼造GB2312标准剩余汉字。";
+				};
+				screenshot = "https://github.com/real-type/RT_QuickSpelling/raw/master/screenshot.png";
+			},
+			{
+				titles = {
+					en= "RealType-字强不息";
+				};
+				url = "https://github.com/real-type/RT_SmartSpelling";
+				path = "RTSmartSpelling.glyphsPalette";
+				descriptions = {
+					en= "Glyphs3 PalettePlugin，RT字始至终的Plus版本，通过设计600左右智能部件的拼造，6763，支持自定义模板的导出和选择。";
+				};
+				screenshot = "https://github.com/real-type/RT_SmartSpelling/raw/master/screenshot.png";
+			},
+			{
+				titles = {
+					en= "RealType-智能部件控制器";
+				};
+				url = "https://github.com/real-type/RT_SmartPropertySetting";
+				path = "RTSmartPropertySetting.glyphsPalette";
+				descriptions = {
+					en= "Glyphs3 PalettePlugin，如果你制作的智能部件是多层关联，每添加一个属性，关联的层数就会翻倍，加着加着就乱了，那么这个插件可以很好的帮助你去控制属性与图层的增加、删除和修改。";
+				};
+				screenshot = "https://github.com/real-type/RT_SmartPropertySetting/raw/master/screenshot.png";
+			},
+			{
+				titles = {
+					en= "RealType-RTClear";
+				};
+				url = "https://github.com/real-type/RT_ClearTry";
+				path = "RTClearTry.glyphsPlugin";
+				descriptions = {
+					en= "用来清除RT-Glyphs3的插件试用缓存问题，请不要随意尝试。";
+				};
+	
+			},
+			{
+				titles = {
+					en= "RealType-照相馆";
+				};
+				url = "https://github.com/real-type/photo-studio";
+				path = "PhotoStudio.glyphsReporter";
+				descriptions = {
+					en= "Glyphs3 Reporters插件，可以导出自定义颜色的的路径、轮廓、引用、锚点等PDF文件。";
+				};
+				screenshot = "https://github.com/real-type/photo-studio/raw/master/screenshot.png";
+			},
+			{
+				titles = {
+					en= "RealType-自定义字框【Free】";
+				};
+				url = "https://github.com/real-type/RT_GlyphBox";
+				path = "RTGlyphBox.glyphsReporter";
+				descriptions = {
+					en= "Glyphs3 Reporters插件，主要用于自定义字框。";
+				};
+				screenshot = "https://github.com/real-type/RT_GlyphBox/raw/master/screenshot.png";
+			},
+			{
+				titles = {
+					en= "RealType-参考字形";
+				};
+				url = "https://github.com/real-type/RT_ReferenceGlyph";
+				path = "RTReferenceGlyph.glyphsPalette";
+				descriptions = {
+					en= "Glyphs3 Palette插件，用于调用参考字形，支持多文件多母版。";
+				};
+				screenshot = "https://github.com/real-type/RT_ReferenceGlyph/raw/master/screenshot.png";
+			},
+			{
+				titles = {
+					en= "RealType-形如刀割";
+				};
+				url = "https://github.com/real-type/RT_GlyphCutting";
+				path = "RTGlyphCutting.glyphsFilter";
+				descriptions = {
+					en= "Glyphs3 Filter插件，根据添加的参考线切割字形。";
+				};
+				screenshot = "https://github.com/real-type/RT_GlyphCutting/raw/master/screenshot.png";
+			},
+			{
+				titles = {
+					en= "RealType-格格坞";
+				};
+				url = "https://github.com/real-type/RT_CjkSquare";
+				path = "RTCjkSquare.glyphsReporter";
+				descriptions = {
+					en= "Glyphs3 Reporters插件，主要用于方块字的线格设置，可以展现方块字的空间分布，还可以根据选择的glyphs文件显示参考字。";
+				};
+				screenshot = "https://github.com/real-type/RT_CjkSquare/raw/master/screenshot.png";
+			},
+			{
+				titles = {
+					en= "RealType-RT笔顺成图";
+				};
+				url = "https://github.com/real-type/RT_StrokesToImage";
+				path = "RTStrokesToImage.glyphsPlugin";
+				descriptions = {
+					en= "Glyphs3 Base插件，用于汉字笔顺生成图片和Gif，前提是你要有或者做一款笔顺字库。安装后，在菜单【编辑】中，点击【RT笔顺成图】，可打开。如图，选择要生成图片的字符，可以设置填充颜色、描边颜色、背景颜色、描边宽度，显示未填充轮廓（可设置颜色），生成Gif图片、选择底纹样式。";
+				};
+				screenshot = "https://github.com/real-type/RT_StrokesToImage/raw/master/screenshot.png";
+			},
+			{
+				titles = {
+					en= "RealType-飞书传字【Free】";
+				};
+				url = "https://github.com/real-type/RT_FlyingGlyphs";
+				path = "RTFlyingGlyphs.glyphsPlugin";
+				descriptions = {
+					en= "Glyphs3 Base插件，如果你有个字形或者路径想分享给你的好伙伴，可以用这个插件来一个字形数据的旅游。";
+				};
+				screenshot = "https://github.com/real-type/RT_FlyingGlyphs/raw/master/screenshot.png";
+			},
+			{
+				titles = {
+					en= "RealType-空间均布【Free】";
+				};
+				url = "https://github.com/real-type/RT_SameSpace";
+				path = "RTSameSpace.glyphsPlugin";
+				descriptions = {
+					en= "Glyphs3 Base插件，用于水平或者垂直多个路径之间的自动等距间隔。";
+				};
+				screenshot = "https://github.com/real-type/RT_SameSpace/raw/master/screenshot.png";
+			},
+			{
+				titles = {
+					en= "RealType-多母版字符替换";
+				};
+				url = "https://github.com/real-type/RT_MastersReplaceGlyphs";
+				path = "RTMastersReplaceGlyphs.glyphsPlugin";
+				descriptions = {
+					en= "Glyphs3 Base插件，用于多母版的字符替换。。";
+				};
+				screenshot = "https://github.com/real-type/RT_MastersReplaceGlyphs/raw/master/screenshot.png";
+			},
+			{
+				titles = {
+					en= "RealType-五月围城【Free】";
+				};
+				url = "https://github.com/real-type/RT_Besieged";
+				path = "RTBesieged.glyphsFilter";
+				descriptions = {
+					en= "Glyphs3 Filter插件，字形围墙，因为五月发布的，就叫【五月围城】吧。";
+				};
+				screenshot = "https://github.com/real-type/RT_Besieged/raw/master/screenshot.png";
+			},
+			{
+				titles = {
+					en= "RealType-数据统计【Free】";
+				};
+				url = "https://github.com/real-type/RT_ShowInfo";
+				path = "RTShowInfo.glyphsPlugin";
+				descriptions = {
+					en= "Glyphs3 Base插件，Glyphs文件数据统计，安装后，在菜单【编辑】中，点击【RT数据统计】，可打开。具体统计数据如图：";
+				};
+				screenshot = "https://github.com/real-type/RT_ShowInfo/raw/master/screenshot.png";
+			},
+			{
+				titles = {
+					en= "RealType-将所选内容转为部件[命名不重复【Free】";
+				};
+				url = "https://github.com/real-type/RT_SavePartAsDiffName";
+				path = "SavePartAsDiffName.glyphsPlugin";
+				descriptions = {
+					en= "Glyphs3 Base插件，将选择的内容转为部件，命名的时候如果有重复命名不会覆盖原先部件，而是在名字后面自动计数，直到不重复。";
+				};
+				screenshot = "https://github.com/real-type/RT_SavePartAsDiffName/raw/master/screenshot.png";
+			},
+			{
+				titles = {
+					en= "RealType-字形移动【Free】";
+				};
+				url = "https://github.com/real-type/RT_GlyphsMove";
+				path = "RTGlyphsMove.glyphsPalette";
+				descriptions = {
+					en= "Glyphs3 插件，单个字符或批量进行字符移动。";
+				};
+				screenshot = "https://github.com/real-type/RT_GlyphsMove/raw/master/screenshot.png";
+			},
+			{
+				branch = Glyphs3;
+				descriptions = {
+					en = "Adds a menu to the Palette, which gives you instant access to all your reporter plugins. Quick’n’easy on/off switching with just a single click.";
+				};
+				donationURL = "https://ko-fi.com/M4M580HG";
+				path = ReporterToggler.glyphsPalette;
+				screenshot = "";
+				titles = {
+					en = "Reporter Toggler";
+				};
+				url = "https://3type.io/glyphs3/github/Mark2Mark/Reporter-Toggler";
+			}
+		);
+		scripts = (
+			{
+				descriptions = {
+					en = "RealType-脚本";
+				};
+				installName = "realtype";
+				path = "free";
+				titles = {
+					en = "RealType-脚本";
+				};
+				url = "https://github.com/real-type/scripts";
+			},
+		);
+	};
+}
