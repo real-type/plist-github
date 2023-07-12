@@ -12,7 +12,18 @@
 				};
 				screenshot = "https://github.com/real-type/RT_ChangePath/raw/master/screenshot.png";
 			},
-				{
+			{
+				titles = {
+					en= "RealType-编码转换【Free】";
+				};
+				url = "https://github.com/real-type/RT_ReplaceUniCode";
+				path = "RTReplaceUniCode.glyphsPlugin";
+				descriptions = {
+					en= "Glyphs3 Base插件，用于unicode编码批量替换。";
+				};
+				screenshot = "https://github.com/real-type/RT_ReplaceUniCode/raw/master/screenshot.png";
+			},
+			{
 				titles = {
 					en= "RealType-字符排序";
 				};
