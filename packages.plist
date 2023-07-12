@@ -14,7 +14,7 @@
 			},
 			{
 				titles = {
-					en= "RealType-编码转换【Free】";
+					en= "RealType-编码替换【Free】";
 				};
 				url = "https://github.com/real-type/RT_ReplaceUniCode";
 				path = "RTReplaceUniCode.glyphsPlugin";
