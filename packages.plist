@@ -14,6 +14,17 @@
 			},
 			{
 				titles = {
+					en= "RealType-导出颜色笔顺";
+				};
+				url = "https://github.com/real-type/RT_ExportColorStroke";
+				path = "RTExportColorStroke.glyphsPlugin";
+				descriptions = {
+					en= "Glyphs3插件，用于批量导出字符笔画顺序的pdf，导出时按设定的颜色顺序绘制PDF。";
+				};
+				screenshot = "https://github.com/real-type/RT_ExportColorStroke/raw/master/screenshot.png";
+			},
+			{
+				titles = {
 					en= "RealType-编码替换【Free】";
 				};
 				url = "https://github.com/real-type/RT_ReplaceUniCode";
