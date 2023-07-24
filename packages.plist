@@ -14,6 +14,17 @@
 			},
 			{
 				titles = {
+					en= "RealType-部件替换";
+				};
+				url = "https://github.com/real-type/RT_PartReplace";
+				path = "RTPartReplace.glyphsPlugin";
+				descriptions = {
+					en= "Glyphs3插件，用于普通部件和智能部件的批量替换、智能部件的参数复制粘贴。";
+				};
+				screenshot = "https://github.com/real-type/RT_PartReplace/raw/master/screenshot.png";
+			},
+			{
+				titles = {
 					en= "RealType-导出颜色笔顺";
 				};
 				url = "https://github.com/real-type/RT_ExportColorStroke";
