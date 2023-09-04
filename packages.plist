@@ -12,6 +12,17 @@
 				};
 				screenshot = "https://github.com/real-type/RT_ChangePath/raw/master/screenshot.png";
 			},
+				{
+				titles = {
+					en= "RealType-复制路径属性【Free】";
+				};
+				url = "https://github.com/real-type/RT_CopyPathAttribute";
+				path = "RTCopyPathAttribute.glyphsPlugin";
+				descriptions = {
+					en= "Glyphs3 Base插件，用于复制、粘贴路径的属性。";
+				};
+				screenshot = "https://github.com/real-type/RT_CopyPathAttribute/raw/master/screenshot.png";
+			},
 			{
 				titles = {
 					en= "RealType-黑匣子";
