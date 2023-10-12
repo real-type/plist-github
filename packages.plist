@@ -12,7 +12,18 @@
 				};
 				screenshot = "https://github.com/real-type/RT_ChangePath/raw/master/screenshot.png";
 			},
-				{
+			{
+				titles = {
+					en= "RealType-他乡遇故知";
+				};
+				url = "https://github.com/real-type/RT_RelationTag";
+				path = "RT_RelationTag.glyphsPalette";
+				descriptions = {
+					en= "Glyphs3 PalettePlugin，从相同标签的字符上快速获取轮廓。";
+				};
+				screenshot = "https://github.com/real-type/RT_RelationTag/raw/master/screenshot.png";
+			},
+			{
 				titles = {
 					en= "RealType-复制路径属性【Free】";
 				};
