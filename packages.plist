@@ -17,7 +17,7 @@
 					en= "RealType-他乡遇故知";
 				};
 				url = "https://github.com/real-type/RT_RelationTag";
-				path = "RT_RelationTag.glyphsPalette";
+				path = "RTRelationTag.glyphsPalette";
 				descriptions = {
 					en= "Glyphs3 PalettePlugin，从相同标签的字符上快速获取轮廓。";
 				};
