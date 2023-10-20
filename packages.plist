@@ -14,6 +14,17 @@
 			},
 			{
 				titles = {
+					en= "RealType-去重叠";
+				};
+				url = "https://github.com/real-type/RT_RemoveOverlap";
+				path = "RTRemoveOverlap.glyphsFilter";
+				descriptions = {
+					en= "Glyphs3 Filter插件，路径去重叠。";
+				};
+				screenshot = "https://github.com/real-type/RT_RemoveOverlap/raw/master/screenshot.png";
+			},
+			{
+				titles = {
 					en= "RealType-他乡遇故知";
 				};
 				url = "https://github.com/real-type/RT_RelationTag";
