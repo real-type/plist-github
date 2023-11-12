@@ -17,7 +17,7 @@
 					en= "RealType-去糟粕";
 				};
 				url = "https://github.com/real-type/RT_RemoveWaste";
-				path = "RT_RemoveWaste.glyphsPalette";
+				path = "RTRemoveWaste.glyphsPalette";
 				descriptions = {
 					en= "Glyphs3 PalettePlugin，检测和删除废点、重合轮廓、重点、未闭合路径等";
 				};
