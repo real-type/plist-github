@@ -14,6 +14,17 @@
 			},
 			{
 				titles = {
+					en= "RealType-框选达人";
+				};
+				url = "https://github.com/real-type/RT_SelectComponent";
+				path = "RTSelectComponent.glyphsTool";
+				descriptions = {
+					en= "Glyphs3 工具插件，用来实现一些特别的框选功能，比如...";
+				};
+				screenshot = "https://github.com/real-type/RT_SelectComponent/raw/master/screenshot.png";
+			},
+			{
+				titles = {
 					en= "RealType-去糟粕";
 				};
 				url = "https://github.com/real-type/RT_RemoveWaste";
