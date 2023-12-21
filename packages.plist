@@ -14,6 +14,17 @@
 			},
 			{
 				titles = {
+					en= "RealType-文件合并";
+				};
+				url = "https://github.com/real-type/RT_FileMerge";
+				path = "RTFileMerge.glyphsPlugin";
+				descriptions = {
+					en= "Glyphs3 Base插件，用来合并一个或多个文件到当前文件。";
+				};
+				screenshot = "https://github.com/real-type/RT_FileMerge/raw/master/screenshot.png";
+			},
+			{
+				titles = {
 					en= "RealType-框选达人";
 				};
 				url = "https://github.com/real-type/RT_SelectComponent";
