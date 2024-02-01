@@ -14,6 +14,17 @@
 			},
 			{
 				titles = {
+					en= "RealType-转二曲";
+				};
+				url = "https://github.com/real-type/RT_Curve2Quadratic";
+				path = "RTCurve2Quadratic.glyphsFilter";
+				descriptions = {
+					en= "Glyphs3 Filter插件，三曲转二曲，用于解决Glyphs封装点数据比较复杂的ttf时出现飞点的情况。。";
+				};
+				screenshot = "https://github.com/real-type/RT_Curve2Quadratic/raw/master/screenshot.png";
+			},
+			{
+				titles = {
 					en= "RealType-文件合并";
 				};
 				url = "https://github.com/real-type/RT_FileMerge";
