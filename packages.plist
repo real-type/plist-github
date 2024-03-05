@@ -12,6 +12,17 @@
 				};
 				screenshot = "https://github.com/real-type/RT_ChangePath/raw/master/screenshot.png";
 			},
+				{
+				titles = {
+					en= "RealType-字繁叶茂";
+				};
+				url = "https://github.com/real-type/RT_WeAreFamily";
+				path = "RTWeAreFamily.glyphsPalette";
+				descriptions = {
+					en= "Glyphs3 PalettePlugin，就由字取系列和字立根生的一个结合体";
+				};
+				screenshot = "https://github.com/real-type/RT_WeAreFamily/raw/master/screenshot.png";
+			},
 			{
 				titles = {
 					en= "RealType-转二曲";
