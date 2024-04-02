@@ -12,7 +12,18 @@
 				};
 				screenshot = "https://github.com/real-type/RT_ChangePath/raw/master/screenshot.png";
 			},
-				{
+            {
+				titles = {
+					en= "RealType-描边吧";
+				};
+				url = "https://github.com/real-type/RT_PathAttr";
+				path = "RTPathAttr.glyphsPalette";
+				descriptions = {
+					en= "Glyphs3 PalettePlugin，可以批量描边、扩展，增加宽高等";
+				};
+				screenshot = "https://github.com/real-type/RT_PathAttr/raw/master/screenshot.png";
+			},
+			{
 				titles = {
 					en= "RealType-字繁叶茂";
 				};
