@@ -14,6 +14,17 @@
 			},
             {
 				titles = {
+					en= "RealType-自由变换";
+				};
+				url = "https://github.com/real-type/RT_FreeTransform";
+				path = "RTFreeTransform.glyphsFilter";
+				descriptions = {
+					en= "Glyphs3 Filter插件，让你的字形根据设置的任意四边形进行变换。";
+				};
+				screenshot = "https://github.com/real-type/RT_FreeTransform/raw/master/screenshot.gif";
+			},
+            {
+				titles = {
 					en= "RealType-描边吧";
 				};
 				url = "https://github.com/real-type/RT_PathAttr";
