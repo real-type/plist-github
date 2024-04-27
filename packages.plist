@@ -737,14 +737,14 @@
 			},
 			{
 				titles = {
-					en= "RealType-数据统计【Free】";
+					en= "RealType-数据统计";
 				};
-				url = "https://github.com/real-type/RT_ShowInfo";
-				path = "RTShowInfo.glyphsPlugin";
+				url = "https://github.com/real-type/RT_DataInfo";
+				path = "RTDataInfo.glyphsPlugin";
 				descriptions = {
 					en= "Glyphs3 Base插件，Glyphs文件数据统计，安装后，在菜单【编辑】中，点击【RT数据统计】，可打开。具体统计数据如图：";
 				};
-				screenshot = "https://github.com/real-type/RT_ShowInfo/raw/master/screenshot.png";
+				screenshot = "https://github.com/real-type/RT_DataInfo/raw/master/screenshot.png";
 			},
 			{
 				titles = {
