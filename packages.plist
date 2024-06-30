@@ -12,7 +12,7 @@
 				};
 				screenshot = "https://github.com/real-type/RT_ChangePath/raw/master/screenshot.png";
 			},
-            {
+			{
 				titles = {
 					en= "RealType-工具箱";
 				};
@@ -23,7 +23,7 @@
 				};
 				screenshot = "https://github.com/real-type/RT_Box/raw/master/screenshot.png";
 			},
-            {
+			{
 				titles = {
 					en= "RealType-笔顺调整";
 				};
