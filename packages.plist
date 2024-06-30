@@ -804,7 +804,7 @@
 				url = "https://3type.io/glyphs3/github/Mark2Mark/Reporter-Toggler";
 			}
 		);
-		scripts = (
+		<!-- scripts = (
 			{
 				descriptions = {
 					en = "RealType-脚本";
@@ -816,6 +816,6 @@
 				};
 				url = "https://github.com/real-type/scripts";
 			},
-		);
+		); -->
 	};
 }
