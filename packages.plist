@@ -34,7 +34,7 @@
 				};
 				screenshot = "https://github.com/real-type/RT_StrokeOrder/raw/master/screenshot.png";
 			},
-            {
+			{
 				titles = {
 					en= "RealType-自由变换";
 				};
@@ -45,7 +45,7 @@
 				};
 				screenshot = "https://github.com/real-type/RT_FreeTransform/raw/master/screenshot.png";
 			},
-            {
+			{
 				titles = {
 					en= "RealType-描边吧";
 				};
