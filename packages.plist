@@ -12,7 +12,17 @@
 				};
 				screenshot = "https://github.com/real-type/RT_ChangePath/raw/master/screenshot.png";
 			},
-
+            {
+				titles = {
+					en= "RealType-工具箱";
+				};
+				url = "https://github.com/real-type/RT_Box";
+				path = "RTBox.glyphsPlugin";
+				descriptions = {
+					en= "Glyphs3 Base插件，常用批处理。";
+				};
+				screenshot = "https://github.com/real-type/RT_Box/raw/master/screenshot.png";
+			},
             {
 				titles = {
 					en= "RealType-笔顺调整";
@@ -794,7 +804,7 @@
 				url = "https://3type.io/glyphs3/github/Mark2Mark/Reporter-Toggler";
 			}
 		);
-		scripts = (
+		<!-- scripts = (
 			{
 				descriptions = {
 					en = "RealType-脚本";
@@ -806,6 +816,6 @@
 				};
 				url = "https://github.com/real-type/scripts";
 			},
-		);
+		); -->
 	};
 }
