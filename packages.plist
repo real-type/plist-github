@@ -789,7 +789,7 @@
 					en= "Glyphs3 插件，单个字符或批量进行字符移动。";
 				};
 				screenshot = "https://github.com/real-type/RT_GlyphsMove/raw/master/screenshot.png";
-			},
+			}
 		);
 	};
 }
