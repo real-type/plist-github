@@ -790,19 +790,6 @@
 				};
 				screenshot = "https://github.com/real-type/RT_GlyphsMove/raw/master/screenshot.png";
 			},
-			{
-				branch = Glyphs3;
-				descriptions = {
-					en = "Adds a menu to the Palette, which gives you instant access to all your reporter plugins. Quick’n’easy on/off switching with just a single click.";
-				};
-				donationURL = "https://ko-fi.com/M4M580HG";
-				path = ReporterToggler.glyphsPalette;
-				screenshot = "";
-				titles = {
-					en = "Reporter Toggler";
-				};
-				url = "https://3type.io/glyphs3/github/Mark2Mark/Reporter-Toggler";
-			}
 		);
 	};
 }
