@@ -14,6 +14,17 @@
 			},
 			{
 				titles = {
+					en= "RealType-部件信息";
+				};
+				url = "https://github.com/real-type/RT_ShowComponentName";
+				path = "RTShowComponentName.glyphsReporter";
+				descriptions = {
+					en= "Glyphs3 Reporters插件，用于显示当前字符中所有部件的信息。";
+				};
+				screenshot = "https://github.com/real-type/RT_ShowComponentName/raw/master/screenshot.png";
+			},
+			{
+				titles = {
 					en= "RealType-工具箱";
 				};
 				url = "https://github.com/real-type/RT_Box";
