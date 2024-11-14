@@ -14,6 +14,17 @@
 			},
 			{
 				titles = {
+					en= "RealType-自动保存";
+				};
+				url = "https://github.com/real-type/RT_AutoSave";
+				path = "RTAutoSave.glyphsPlugin";
+				descriptions = {
+					en= "Glyphs3 Base插件,用于开启自动保存文件，";
+				};
+				screenshot = "https://github.com/real-type/RT_AutoSave/raw/master/screenshot.png";
+			},
+			{
+				titles = {
 					en= "RealType-部件信息";
 				};
 				url = "https://github.com/real-type/RT_ShowComponentName";
