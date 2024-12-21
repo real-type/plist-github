@@ -14,6 +14,17 @@
 			},
 			{
 				titles = {
+					en= "RealType-超级粘贴板";
+				};
+				url = "https://github.com/real-type/RT_SuperPasteboard";
+				path = "RTSuperPasteboard.glyphsPlugin";
+				descriptions = {
+					en= "Glyphs3 Base插件,用于自动保存在字符编辑视图执行的Command+C和Command+V操作记录，用于解决频繁在间执行复制粘贴的操作时的来回切换的问题。也可以手动添加选择的轮廓到记录中，用于临时存储调用。";
+				};
+				screenshot = "https://github.com/real-type/RT_SuperPasteboard/raw/master/screenshot.png";
+			},
+			{
+				titles = {
 					en= "RealType-每日工作";
 				};
 				url = "https://github.com/real-type/RT_Workload";
