@@ -14,6 +14,17 @@
 			},
 			{
 				titles = {
+					en= "RealType-刻板字";
+				};
+				url = "https://github.com/real-type/RT_EngravedCopy";
+				path = "RTEngravedCopy.glyphsFilter";
+				descriptions = {
+					en= "Glyphs3 Filter插件，用来一键生成类似刻板字的效。";
+				};
+				screenshot = "https://github.com/real-type/RT_EngravedCopy/raw/master/screenshot.png";
+			},
+			{
+				titles = {
 					en= "RealType-超级粘贴板";
 				};
 				url = "https://github.com/real-type/RT_SuperPasteboard";
