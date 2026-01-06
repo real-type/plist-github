@@ -14,6 +14,17 @@
 			},
 			{
 				titles = {
+					en= "RealType-记住形状【Free】";
+				};
+				url = "https://github.com/real-type/RT_RememberShapes";
+				path = "RTRememberShapes.glyphsPlugin";
+				descriptions = {
+					en= "Glyphs3 Base插件，可以记住当前图层的形状一直显示。";
+				};
+				screenshot = "https://github.com/real-type/RT_RememberShapes/raw/master/screenshot.png";
+			},
+			{
+				titles = {
 					en= "RealType-多姿多彩";
 				};
 				url = "https://github.com/real-type/RT_MoreColors";
